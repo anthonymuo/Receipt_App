@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import filedialog
 import tkinter as tk
+import _tkinter
 import pytesseract
 from PIL import Image, ImageTk
 import os
