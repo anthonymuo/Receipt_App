@@ -9,7 +9,8 @@ import math
 import cv2
 import numpy as np
 from pytesseract import Output
-from matplotlib import pyplot as plt
+
+# from matplotlib import pyplot as plt
 import pymongo
 
 # creat showimage function
